@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine%20Learning%20Projects/Credit%20Card%20Fraud%20Detection/notebook/mlruns/0/ae2c5fefdd0843269e1e625eeb52211d/artifacts
+end_time: 1747458736054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae2c5fefdd0843269e1e625eeb52211d
+run_name: adaptable-worm-194
+run_uuid: ae2c5fefdd0843269e1e625eeb52211d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747458709565
+status: 3
+tags: []
+user_id: HP
